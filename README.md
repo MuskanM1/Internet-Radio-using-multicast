@@ -6,10 +6,8 @@ C application to implement Internet Radio over IP Multicast
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Usage](#usage)
 * [Summary](#Summary)
 * [Results](#Results)
-* [Report Link](#report-Link)
 
 
 ## General info
