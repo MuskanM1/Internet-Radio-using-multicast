@@ -1,8 +1,6 @@
 # Internet-Radio-using-multicast
 C application to implement Internet Radio over IP Multicast
 
-# CPU Scheduler using MultiThreading
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
